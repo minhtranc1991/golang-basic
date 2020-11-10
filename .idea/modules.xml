@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Go – Chương trình Hello World/Go – Chương trình Hello World.iml" filepath="$PROJECT_DIR$/Go – Chương trình Hello World/Go – Chương trình Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001 - Go – Chương trình Hello World/001 - Go – Chương trình Hello World.iml" filepath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/001 - Go – Chương trình Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/002 - Go – Kiểu dữ liệu.iml" filepath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/002 - Go – Kiểu dữ liệu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>

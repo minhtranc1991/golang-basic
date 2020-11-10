@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/Go – Chương trình Hello World.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/002 - Go – Kiểu dữ liệu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go – Chương trình Hello World/Go – Chương trình Hello World.iml" beforeDir="false" afterPath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/001 - Go – Chương trình Hello World.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go – Chương trình Hello World/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go – Chương trình Hello World/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go – Chương trình Hello World/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -56,7 +62,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Go – Chương trình Hello World" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +74,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Golang\002 - Go – Kiểu dữ liệu" />
+      <recent name="D:\Golang\Go – Kiểu dữ liệu" />
       <recent name="D:\Golang\Go – Chương trình Hello World" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -120,7 +128,7 @@
       <updated>1604981818199</updated>
       <workItem from="1604981823686" duration="206000" />
       <workItem from="1604982043882" duration="2572000" />
-      <workItem from="1604990274100" duration="347000" />
+      <workItem from="1604990274100" duration="1137000" />
     </task>
     <servers />
   </component>
@@ -137,6 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -179,9 +190,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604982028728" />
-    <state x="597" y="140" key="new project wizard" timestamp="1604990461582">
+    <state x="597" y="140" key="new project wizard" timestamp="1604990883851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604990461582" />
+    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604990883851" />
   </component>
 </project>
