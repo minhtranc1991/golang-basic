@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/003 - Go – Biến/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003 - Go – Biến/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/constants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scope.go" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/scope.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/variables.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/variables_2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_3.go" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/variables_3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003 - Go – Biến/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +122,7 @@
       <updated>1604981818199</updated>
       <workItem from="1604981823686" duration="206000" />
       <workItem from="1604982043882" duration="2572000" />
-      <workItem from="1604990274100" duration="2623000" />
+      <workItem from="1604990274100" duration="2836000" />
     </task>
     <servers />
   </component>
