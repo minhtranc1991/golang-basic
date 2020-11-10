@@ -86,7 +86,7 @@ func f2() int {
 ```
 Trong hàm main() chúng ta gọi hàm f1(), hàm f1() lại gọi hàm f2(), hàm f2() sẽ trả về 1 cho hàm f1(), hàm f1() lại trả về giá trị 1 đó cho hàm main(). Bạn có thể hình dung quá trình đó như sau:
 
-[Code flow](../Capture.jpg)
+![](../Capture.jpg)
 
 Chúng ta có thể đặt tên cho giá trị trả về, ví dụ:
 ```go
