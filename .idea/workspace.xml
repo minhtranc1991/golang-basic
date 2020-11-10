@@ -20,14 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/004 - Go – Câu lệnh điều kiện.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/005 - Go – Array, Slice và Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/for.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if.go" beforeDir="false" afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/if.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/switch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/001 - Go – Chương trình Hello World/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003 - Go – Biến/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/003 - Go – Biến/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/append_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/append_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays1.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/arrays1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays2.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/arrays2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/copy_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/false_key.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/false_key.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/maps.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +87,7 @@
       <recent name="D:\Golang\Go – Chương trình Hello World" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Golang\005 - Go – Array, Slice và Map" />
       <recent name="D:\Golang\004 - Go – Câu lệnh điều kiện" />
       <recent name="D:\Golang\003 - Go – Biến" />
       <recent name="D:\Golang\Go – Chương trình Hello World" />
@@ -130,7 +139,7 @@
       <updated>1604981818199</updated>
       <workItem from="1604981823686" duration="206000" />
       <workItem from="1604982043882" duration="2572000" />
-      <workItem from="1604990274100" duration="3793000" />
+      <workItem from="1604990274100" duration="5687000" />
     </task>
     <servers />
   </component>
@@ -192,9 +201,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604982028728" />
-    <state x="597" y="140" key="new project wizard" timestamp="1604994409926">
+    <state x="597" y="140" key="new project wizard" timestamp="1604994939950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604994409926" />
+    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604994939950" />
   </component>
 </project>

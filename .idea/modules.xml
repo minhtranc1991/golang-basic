@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/002 - Go – Kiểu dữ liệu.iml" filepath="$PROJECT_DIR$/002 - Go – Kiểu dữ liệu/002 - Go – Kiểu dữ liệu.iml" />
       <module fileurl="file://$PROJECT_DIR$/003 - Go – Biến/003 - Go – Biến.iml" filepath="$PROJECT_DIR$/003 - Go – Biến/003 - Go – Biến.iml" />
       <module fileurl="file://$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/004 - Go – Câu lệnh điều kiện.iml" filepath="$PROJECT_DIR$/004 - Go – Câu lệnh điều kiện/004 - Go – Câu lệnh điều kiện.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005 - Go – Array, Slice và Map/005 - Go – Array, Slice và Map.iml" filepath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/005 - Go – Array, Slice và Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>
