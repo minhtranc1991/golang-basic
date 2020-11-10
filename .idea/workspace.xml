@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/006 - Go – Hàm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Go – Hàm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Go – Con trỏ/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Go – Con trỏ/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/007 - Go – Con trỏ" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,11 +74,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Golang\007 - Go – Con trỏ" />
       <recent name="D:\Golang" />
       <recent name="D:\Golang\006 - Go – Hàm" />
       <recent name="D:\Golang\004 - Go – Câu lệnh điều kiện" />
       <recent name="D:\Golang\003 - Go – Biến" />
-      <recent name="D:\Golang\002 - Go – Kiểu dữ liệu" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Golang\006 - Go – Hàm" />
@@ -224,7 +225,7 @@
       <updated>1604981818199</updated>
       <workItem from="1604981823686" duration="206000" />
       <workItem from="1604982043882" duration="2572000" />
-      <workItem from="1604990274100" duration="8946000" />
+      <workItem from="1604990274100" duration="9303000" />
     </task>
     <servers />
   </component>
@@ -310,9 +311,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604982028728" />
-    <state x="597" y="140" key="new project wizard" timestamp="1604996993574">
+    <state x="597" y="140" key="new project wizard" timestamp="1605000598426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604996993574" />
+    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605000598426" />
   </component>
 </project>
