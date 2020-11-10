@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/Go – Chương trình Hello World.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go – Chương trình Hello World/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Go – Chương trình Hello World" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -44,6 +43,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Golang\Go – Chương trình Hello World" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Golang\Go – Chương trình Hello World" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build append_slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -71,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604981818199</updated>
       <workItem from="1604981823686" duration="206000" />
-      <workItem from="1604982043882" duration="2470000" />
+      <workItem from="1604982043882" duration="2572000" />
+      <workItem from="1604990274100" duration="29000" />
     </task>
     <servers />
   </component>
@@ -83,26 +91,30 @@
     <auto-vendoring-mode>false</auto-vendoring-mode>
   </component>
   <component name="WindowStateProjectService">
+    <state x="752" y="178" key="#GOPATH" timestamp="1604990301908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="178" key="#GOPATH/0.0.1920.1040@0.0.1920.1040" timestamp="1604990301908" />
     <state x="752" y="451" key="#GOROOT" timestamp="1604982206756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="451" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1604982206756" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604983565542">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604990260818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604983565542" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604983565542">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604990260818" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604990260818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604983565542" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604983565542">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604990260818" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604990260818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604983565542" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604983565542">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604990260818" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604990260818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604983565542" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604990260818" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1604982028728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
