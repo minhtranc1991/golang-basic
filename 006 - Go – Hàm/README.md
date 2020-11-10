@@ -1,7 +1,7 @@
 # Go – Hàm
 Hàm là một khối lệnh độc lập có chức năng nhận dữ liệu, xử lý và trả về kết quả. Trong các phần trước chúng ta chỉ làm việc với một hàm duy nhất là hàm main(), trong phần này chúng ta sẽ làm việc với nhiều hàm khác.
 
-###Khai báo hàm
+### Khai báo hàm
 
 Giả sử chúng ta có đoạn code tính giá trị trung bình của một slice như sau:
 
@@ -95,7 +95,7 @@ func f2() (r int) {
     return
 }
 ```
-###Trả về nhiều giá trị
+### Trả về nhiều giá trị
 
 Go cho phép một hàm được trả về nhiều giá trị. Ví dụ:
 
@@ -112,7 +112,7 @@ Chúng ta khai báo danh sách các kiểu trả về trong cặp dấu ngoặc 
 
 Thông thường chúng ta thường trả về một giá trị của một kết quả tính toán nào đó, và một giá trị lỗi cho biết công việc của hàm có thành công hay không.
 
-###Tùy biến số lượng tham số
+### Tùy biến số lượng tham số
 
 Tham số cuối cùng của một hàm có thể được khai báo theo dạng đặc biệt như sau:
 
@@ -136,7 +136,7 @@ func main() {
 ```
 Chúng ta thêm 3 dấu chấm "..." vào trước tên kiểu dữ liệu của tham số cuối cùng, Go sẽ hiểu rằng tham số này có thể có 0 hoặc nhiều giá trị được truyền vào, khi gọi hàm chúng ta có thể truyền vào 0 hoặc nhiều giá trị, ngăn cách nhau bởi dấu phẩy, đặc tính này cho phép hàm nhận tham số một cách linh hoạt hơn.
 
-###Hàm Closure
+### Hàm Closure
 
 Chúng ta có thể định nghĩa một hàm bên trong một hàm khác. Ví dụ:
 
@@ -173,7 +173,7 @@ func main() {
 ```
 Trong đoạn code trên, increment thực hiện tăng biến x lên một đơn vị, mặc dù x được khai báo ngoài hàm increment nhưng hàm này vẫn có thể đọc được.
 
-###Đệ quy
+### Đệ quy
 
 Một hàm có thể gọi chính nó, ví dụ:
 
@@ -189,7 +189,7 @@ Khi một hàm gọi chính nó thì đây là kỹ thuật lập trình đệ q
 
 Hàm Closure và đệ quy là các kỹ thuật lập trình cao cấp tạo nên mô hình lập trình chức năng. Hầu hết người mới học sẽ thấy hơi khó hiểu cách hoạt động của chúng so với việc dùng cách câu lệnh bình thường như for, if….
 
-###Defer, Panic và Recover
+### Defer, Panic và Recover
 
 Lệnh defer có tác dụng chạy một lệnh khác sau khi một hàm đã kết thúc. Ví dụ:
 
