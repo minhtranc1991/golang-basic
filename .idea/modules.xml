@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" filepath="$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" />
       <module fileurl="file://$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" filepath="$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" />
       <module fileurl="file://$PROJECT_DIR$/012 - Go – File và thư mục/012 - Go – File và thư mục.iml" filepath="$PROJECT_DIR$/012 - Go – File và thư mục/012 - Go – File và thư mục.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013 - Go – Exception Handles/013 - Go – Exception Handles.iml" filepath="$PROJECT_DIR$/013 - Go – Exception Handles/013 - Go – Exception Handles.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>
