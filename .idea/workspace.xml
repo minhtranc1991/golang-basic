@@ -20,7 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9a175ad-aa65-46cb-acc2-346c27a811b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/false_key.go" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/false_key.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/009 - Go – Concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/buffered_channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/channel2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/goroutine2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008 - Go – Concurrency/select.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled (1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +64,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -61,7 +74,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/007 - Go – Con trỏ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,14 +93,14 @@
       <recent name="D:\Golang\Go – Chương trình Hello World" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Golang\007 - Go – Con trỏ" />
       <recent name="D:\Golang" />
+      <recent name="D:\Golang\008 - Go – Concurrency" />
+      <recent name="D:\Golang\007 - Go – Con trỏ" />
       <recent name="D:\Golang\006 - Go – Hàm" />
       <recent name="D:\Golang\004 - Go – Câu lệnh điều kiện" />
-      <recent name="D:\Golang\003 - Go – Biến" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 006 - Go – Hàm (5)">
+  <component name="RunManager" selected="Go Build.go build 008 - Go – Concurrency (5)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -97,9 +110,9 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 006 - Go – Hàm (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="006 - Go – Hàm" />
-      <working_directory value="$PROJECT_DIR$/006 - Go – Hàm" />
+    <configuration name="go build 008 - Go – Concurrency (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="009 - Go – Concurrency" />
+      <working_directory value="$PROJECT_DIR$/008 - Go – Concurrency" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -111,14 +124,14 @@
         </ENTRIES>
       </EXTENSION>
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006 - Go – Hàm/closure_function.go" />
-      <package value="006 - Go – Hàm" />
+      <filePath value="$PROJECT_DIR$/008 - Go – Concurrency/channel.go" />
+      <package value="008 - Go – Concurrency" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 006 - Go – Hàm (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="006 - Go – Hàm" />
-      <working_directory value="$PROJECT_DIR$/006 - Go – Hàm" />
+    <configuration name="go build 008 - Go – Concurrency (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="009 - Go – Concurrency" />
+      <working_directory value="$PROJECT_DIR$/008 - Go – Concurrency" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -130,14 +143,14 @@
         </ENTRIES>
       </EXTENSION>
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006 - Go – Hàm/closure_function2.go" />
-      <package value="006 - Go – Hàm" />
+      <filePath value="$PROJECT_DIR$/008 - Go – Concurrency/channel2.go" />
+      <package value="008 - Go – Concurrency" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 006 - Go – Hàm (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="006 - Go – Hàm" />
-      <working_directory value="$PROJECT_DIR$/006 - Go – Hàm" />
+    <configuration name="go build 008 - Go – Concurrency (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="009 - Go – Concurrency" />
+      <working_directory value="$PROJECT_DIR$/008 - Go – Concurrency" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -149,14 +162,14 @@
         </ENTRIES>
       </EXTENSION>
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006 - Go – Hàm/defer.go" />
-      <package value="006 - Go – Hàm" />
+      <filePath value="$PROJECT_DIR$/008 - Go – Concurrency/select.go" />
+      <package value="008 - Go – Concurrency" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 006 - Go – Hàm (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="006 - Go – Hàm" />
-      <working_directory value="$PROJECT_DIR$/006 - Go – Hàm" />
+    <configuration name="go build 008 - Go – Concurrency (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="009 - Go – Concurrency" />
+      <working_directory value="$PROJECT_DIR$/008 - Go – Concurrency" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -168,14 +181,14 @@
         </ENTRIES>
       </EXTENSION>
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006 - Go – Hàm/panic.go" />
-      <package value="006 - Go – Hàm" />
+      <filePath value="$PROJECT_DIR$/008 - Go – Concurrency/buffered_channel.go" />
+      <package value="008 - Go – Concurrency" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 006 - Go – Hàm (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="006 - Go – Hàm" />
-      <working_directory value="$PROJECT_DIR$/006 - Go – Hàm" />
+    <configuration name="go build 008 - Go – Concurrency" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="009 - Go – Concurrency" />
+      <working_directory value="$PROJECT_DIR$/008 - Go – Concurrency" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -187,8 +200,8 @@
         </ENTRIES>
       </EXTENSION>
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/006 - Go – Hàm/recover.go" />
-      <package value="006 - Go – Hàm" />
+      <filePath value="$PROJECT_DIR$/008 - Go – Concurrency/goroutine.go" />
+      <package value="008 - Go – Concurrency" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -204,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 006 - Go – Hàm (5)" />
-        <item itemvalue="Go Build.go build 006 - Go – Hàm (4)" />
-        <item itemvalue="Go Build.go build 006 - Go – Hàm (3)" />
-        <item itemvalue="Go Build.go build 006 - Go – Hàm (2)" />
-        <item itemvalue="Go Build.go build 006 - Go – Hàm (1)" />
+        <item itemvalue="Go Build.go build 008 - Go – Concurrency (5)" />
+        <item itemvalue="Go Build.go build 008 - Go – Concurrency (4)" />
+        <item itemvalue="Go Build.go build 008 - Go – Concurrency (3)" />
+        <item itemvalue="Go Build.go build 008 - Go – Concurrency (2)" />
+        <item itemvalue="Go Build.go build 008 - Go – Concurrency" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +239,14 @@
       <workItem from="1604982043882" duration="2572000" />
       <workItem from="1604990274100" duration="9303000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor">
+      <created>1605059937242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059937242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +265,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -282,22 +305,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="147" key="#go_build_006_-_Go_–_Hàm_(5)/0.0.1920.1040@0.0.1920.1040" timestamp="1604999877556" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605059895002">
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency" timestamp="1605061098263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605059895002" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605059895002">
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency/0.0.1920.1040@0.0.1920.1040" timestamp="1605061098263" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(1)" timestamp="1605061135079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605059895002" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605059895002">
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1605061135079" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(2)" timestamp="1605061997334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605059895002" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605059895002">
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(2)/0.0.1920.1040@0.0.1920.1040" timestamp="1605061997334" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(3)" timestamp="1605062292814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605059895002" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(3)/0.0.1920.1040@0.0.1920.1040" timestamp="1605062292814" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(4)" timestamp="1605062519791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(4)/0.0.1920.1040@0.0.1920.1040" timestamp="1605062519791" />
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(5)" timestamp="1605062657585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="147" key="#go_build_008_-_Go_–_Concurrency_(5)/0.0.1920.1040@0.0.1920.1040" timestamp="1605062657585" />
+    <state x="552" y="88" key="CommitChangelistDialog2" timestamp="1605059936605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605059936605" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605065317553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605065317553" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605065317553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605065317553" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605065317553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605065317553" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605065317553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605065317553" />
     <state x="184" y="86" key="MergeDialog" timestamp="1604990417059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -310,9 +361,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604982028728" />
-    <state x="597" y="140" key="new project wizard" timestamp="1605000598426">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605059940138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605000598426" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605059940138" />
+    <state x="597" y="140" key="new project wizard" timestamp="1605060723641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605060723641" />
   </component>
 </project>

@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/005 - Go – Array, Slice và Map/005 - Go – Array, Slice và Map.iml" filepath="$PROJECT_DIR$/005 - Go – Array, Slice và Map/005 - Go – Array, Slice và Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/006 - Go – Hàm/006 - Go – Hàm.iml" filepath="$PROJECT_DIR$/006 - Go – Hàm/006 - Go – Hàm.iml" />
       <module fileurl="file://$PROJECT_DIR$/007 - Go – Con trỏ/007 - Go – Con trỏ.iml" filepath="$PROJECT_DIR$/007 - Go – Con trỏ/007 - Go – Con trỏ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008 - Go – Struct và Interface/008 - Go – Struct và Interface.iml" filepath="$PROJECT_DIR$/008 - Go – Struct và Interface/008 - Go – Struct và Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009 - Go – Concurrency/009 - Go – Concurrency.iml" filepath="$PROJECT_DIR$/009 - Go – Concurrency/009 - Go – Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>
