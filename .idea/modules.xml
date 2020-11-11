@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/008 - Go – Struct và Interface/008 - Go – Struct và Interface.iml" filepath="$PROJECT_DIR$/008 - Go – Struct và Interface/008 - Go – Struct và Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/009 - Go – Concurrency/009 - Go – Concurrency.iml" filepath="$PROJECT_DIR$/009 - Go – Concurrency/009 - Go – Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" filepath="$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" filepath="$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>
