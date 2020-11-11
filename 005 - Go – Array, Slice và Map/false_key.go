@@ -26,40 +26,4 @@ func main() {
 	}
 
 	fmt.Println(elements)
-
-	elements2 := make(map[string]map[string]string)
-	{
-		"H" : map[string]string{
-		"name": "Hydrogen",
-	},
-		"He" : map[string]string{
-		"name": "Helium",
-	},
-		"Li" : map[string]string{
-		"name": "Lithium",
-	},
-		"Be" : map[string]string{
-		"name": "Beryllium",
-	},
-		"B" : map[string]string{
-		"name": "Boron",
-	},
-		"C" : map[string]string{
-		"name": "Carbon",
-	},
-		"N" : map[string]string{
-		"name": "Nitrogen",
-	},
-		"O" : map[string]string{
-		"name": "Oxygen",
-	},
-		"F" : map[string]string{
-		"name": "Fluorine",
-	},
-		"Ne" : map[string]string{
-		"name": "Neon",
-	},
-	}
-	fmt.Println(elements2)
-	fmt.Println(elements2["H"])
 }
