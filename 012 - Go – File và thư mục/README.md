@@ -176,3 +176,18 @@ Hàm Readdir() nhận vào số lượng thư mục và file mà chúng ta muố
 fmt.Println(fi.Name())
 ```
 Chúng ta có thể lấy tên file hoặc thư mục thông qua hàm Name() trong biến FileInfo.
+
+Gói io trong Go chỉ chứa một số ít các hàm, còn lại phần lớn là các interface, trong đó có 2 interface chính là Reader và Writer. Reader chứa các hàm hỗ trợ đọc dữ liệu (nhập), Writer chứa các hàm hỗ trợ ghi dữ liệu (xuất). Hầu hết các hàm trong Go nhận tham số là các biến Reader hoặc Writer này.
+
+Ví dụ gói io có hàm Copy() có chức năng sao chép dữ liệu từ một Reader sang một Writer:
+
+```go
+func Copy(dst Writer, src Reader) (written int64, err error)
+```
+Để đọc hoặc ghi dữ liệu vào một slice []byte hoặc một string thì chúng ta có thể dùng struct Buffer trong gói bytes:
+
+```go
+var buf bytes.Buffer
+buf.Write([]byte("test"))
+```
+Biến Buffer có thể không cần phải khởi tạo trước, Buffer hỗ trợ cả Reader và Writer. Từ biến Buffer chúng ta có thể chuyển thành một slice []byte bằng cách dùng hàm Bytes(). Nếu chúng ta chỉ có nhu cầu đọc dữ liệu từ string thì có một hàm khác tiện hơn là strings.NewReader().
