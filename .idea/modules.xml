@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" filepath="$PROJECT_DIR$/010 - Go – Package/010 - Go – Package.iml" />
       <module fileurl="file://$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" filepath="$PROJECT_DIR$/011 - Go – String/011 - Go – String.iml" />
       <module fileurl="file://$PROJECT_DIR$/012 - Go – File và thư mục/012 - Go – File và thư mục.iml" filepath="$PROJECT_DIR$/012 - Go – File và thư mục/012 - Go – File và thư mục.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013 - Go – List/013 - Go – List.iml" filepath="$PROJECT_DIR$/013 - Go – List/013 - Go – List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014 - Go – Hàm băm và mã hóa/014 - Go – Hàm băm và mã hóa.iml" filepath="$PROJECT_DIR$/014 - Go – Hàm băm và mã hóa/014 - Go – Hàm băm và mã hóa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015 - Go – Network/015 - Go – Network.iml" filepath="$PROJECT_DIR$/015 - Go – Network/015 - Go – Network.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golang.iml" filepath="$PROJECT_DIR$/.idea/Golang.iml" />
     </modules>
   </component>
